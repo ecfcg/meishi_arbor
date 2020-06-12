@@ -1,3 +1,3 @@
 # meishi_tres
 
-Original meishi keyboark.
+Original meishi keyboard.
