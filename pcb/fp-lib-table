@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name tres)(type KiCad)(uri V:/keyboard/keyboard_footprints/tres.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri V:/keyboard/reference/kbd-master/kbd.pretty)(options "")(descr ""))
+)

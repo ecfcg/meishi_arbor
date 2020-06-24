@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tres)(type Legacy)(uri V:/keyboard/keyboard_footprints/tres.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri V:/keyboard/reference/kbd-master/library/kbd.lib)(options "")(descr ""))
+)
