@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name arbor)(type KiCad)(uri V:/keyboard/keyboard_footprints/arbor.pretty)(options "")(descr ""))
-  (lib (name kbd)(type KiCad)(uri V:/keyboard/reference/kbd-master/kbd.pretty)(options "")(descr ""))
+  (lib (name arbor)(type KiCad)(uri ${KIPRJMOD}/../keyboard_footprints/arbor.pretty)(options "")(descr ""))
 )
