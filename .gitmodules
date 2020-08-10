@@ -1,0 +1,3 @@
+[submodule "keyboard_footprints"]
+	path = keyboard_footprints
+	url = https://github.com/ecfcg/keyboard_footprints.git
