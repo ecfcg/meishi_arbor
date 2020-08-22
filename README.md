@@ -1,3 +1,3 @@
-# meishi_tres
+# meishi_arbor
 
 Original meishi keyboard.

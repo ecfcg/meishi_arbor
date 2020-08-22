@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name arbor)(type Legacy)(uri ${KIPRJMOD}/../keyboard_footprints/arbor.lib)(options "")(descr ""))
+)
